@@ -1,2 +1,1 @@
-# writing
-Essays on whatever interested me at the time
+# Essays on whatever interested me at the time
